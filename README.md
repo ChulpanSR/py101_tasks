@@ -1,3 +1,3 @@
 # py101_tasks
 
-![](/python.png)
+![](/vector-anaconda-cartoon-illustration.jpg)
